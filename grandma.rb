@@ -13,5 +13,5 @@ if phrase == phrase.upcase
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 else 
-  puts 
+  puts "HUH?! SPEAK UP, SONNY!"
 end
